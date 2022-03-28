@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 32DB-86B9
+
+ Directory of C:\Users\MARK\MavenProjects
+
+2022-03-28  03:47 PM    <DIR>          .
+2022-03-28  03:44 PM    <DIR>          ..
+2022-03-28  02:21 PM    <DIR>          .metadata
+2022-03-28  02:45 PM    <DIR>          helloworld_raji
+2022-03-28  03:47 PM                 0 testgit.tct
+               1 File(s)              0 bytes
+               4 Dir(s)  324,573,569,024 bytes free
